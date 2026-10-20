@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ghosttracker-vi"
+version = "1.0.0"
+description = "Cong cu tra cuu thong tin OSINT (Tieng Viet)"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests",
+    "phonenumbers",
+    "pillow"
+]
+
+[project.scripts]
+ghosttr-vi = "neos_vi.main:main"
