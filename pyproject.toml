@@ -15,4 +15,4 @@ dependencies = [
 ]
 
 [project.scripts]
-ghosttr-vi = "neos_vi.main:main"
+neoosin-vi = "neoos_vi.main:main"
