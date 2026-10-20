@@ -4,9 +4,6 @@ Công cụ tra cứu thông tin OSINT mạnh mẽ (IP, tên miền, DNS, email, 
 
 ## Cài đặt
 
-Dưới đây là toàn bộ lệnh cài đặt và khởi chạy:
-
+Cài đặt trực tiếp từ GitHub:
 ```bash
 pip install git+https://github.com/Minhbach16-cmyk/neosi-.git
-pip install .
-neoosin-vi
