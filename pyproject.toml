@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ghosttracker-vi"
+name = "neoosin-vi"
 version = "1.0.0"
 description = "Cong cu tra cuu thong tin OSINT (Tieng Viet)"
 readme = "README.md"
